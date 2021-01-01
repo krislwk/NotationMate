@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Archivo+Black|Judson:400,700" rel="stylesheet">
+<body>
+  <section>
+    <h1> Start! </h1>
+    <h2> Choose the answer that corresponds with the image shown on the screen.</h2>
+    <h2> Right: {{right}}  Wrong: {{wrong}}</h2>
+    <img src="{{ url_for('static', filename = square +'.png') }}" />
+    <form action="#" method="post">
+      <input type="submit" name="submit" value="{{choices[0]}}">
+      <input type="submit" name="submit" value="{{choices[1]}}">
+      <input type="submit" name="submit" value="{{choices[2]}}">
+      <input type="submit" name="submit" value="{{choices[3]}}">
+    </form>
+  </section>
+</body>
+<style>
+form{
+  text-align: center;
+  margin-top: 10%;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30vh;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: -5%;
+}
+input{
+  margin-right: 1%;
+  background-color: white;
+  height: 10vh;
+  width: 25vh;
+  border-radius: 20px;
+  border-width: 0px;
+  font-size: 3vh;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+}
+h2{
+  font-size: 3vh;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 200;
+}
+h1{
+  font-size: 10vh;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section{
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  background: linear-gradient(-45deg, #c591ff, #919bff)
+}
+</style>
+</html>
