@@ -3,9 +3,10 @@ NotationMate is a notation-reading minigame that helps dyslexic players read and
 You can access the main website via https://https://www.notationmate.com/
 
 # How to Run
-1) Download NotationMate.rar from the repository.
+1) Download NotationMate.rar from the repository.  
 2) Extract files into a folder while making sure that the file strcuture remains as: <br/>
 NotationMate/ <br/>
 ├── Templates <br/>
 ├── static <br/>
 └── app.py <br/>
+3)
