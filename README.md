@@ -14,4 +14,5 @@ NotationMate/ <br/>
 5) Enjoy!
 
 # Contact
-Kris Leungwattanakij -- kris@cobellum.com
+Kris Leungwattanakij <br/>
+kris@cobellum.com
