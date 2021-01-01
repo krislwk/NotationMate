@@ -13,6 +13,9 @@ NotationMate/ <br/>
 4) Access http://127.0.0.1:1234/ via a web browser.
 5) Enjoy!
 
+# Additional Information
+- B
+
 # Contact
 Kris Leungwattanakij <br/>
 kris@cobellum.com
