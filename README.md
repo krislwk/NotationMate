@@ -14,8 +14,10 @@ NotationMate/ <br/>
 5) Enjoy!
 
 # Additional Information
-- B
+- Incase anyone would like to contribute to the repo, the back-end is written in Python using the Flask module.
+- The module, 'flask_sqlalchemy,' imported on line 2 is currently unused in the project. Please ignore it.
 
 # Contact
 Kris Leungwattanakij <br/>
-kris@cobellum.com
+kris@cobellum.com <br/>
+https://www.linkedin.com/in/krisleungwattanakij/
