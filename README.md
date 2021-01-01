@@ -18,6 +18,6 @@ NotationMate/ <br/>
 - The module, 'flask_sqlalchemy,' imported on line 2 is currently unused in the project. Please ignore it.
 
 # Contact
-Kris Leungwattanakij <br/>
-kris@cobellum.com <br/>
-https://www.linkedin.com/in/krisleungwattanakij/
+Name: Kris Leungwattanakij <br/>
+Email: kris@cobellum.com <br/>
+LinkedIn: https://www.linkedin.com/in/krisleungwattanakij/
