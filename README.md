@@ -12,3 +12,6 @@ NotationMate/ <br/>
 3)Run 'app.py' using a python compiler.
 4) Access http://127.0.0.1:1234/ via a web browser.
 5) Enjoy!
+
+# Contact
+Kris Leungwattanakij -- kris@cobellum.com
